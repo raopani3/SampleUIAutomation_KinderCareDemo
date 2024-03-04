@@ -1,0 +1,1 @@
+"# SampleUIAutomation_KinderCareDemo" 
