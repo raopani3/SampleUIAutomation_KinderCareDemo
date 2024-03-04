@@ -7,3 +7,4 @@
 3. The project has two features implemented
 4. Find a Center Feature = mvn test -Dcucumber.filter.tags="@FindCenter" -Dbrowser="chrome"
 5. Manage Account Feature = mvn test -Dcucumber.filter.tags="@ManageAccount" -Dbrowser="chrome"
+6. If you want to run both the Feature files use mvn test -Dbrowser="chrome" or mvn test -Dbrowser="firefox"
